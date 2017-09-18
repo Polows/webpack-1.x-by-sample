@@ -10,7 +10,6 @@ Pasos:
  - Inicializar package.json (npm init)
  - Crear un fichero HTML (index.html).
 
-
 # Pasos para construirlo
 
 ## Prerrequisitos
